@@ -1,0 +1,8 @@
+{
+  "2026-08-03": {
+    "title": "Эфир №1 — пример",
+    "description": "Это пример записи. Удалите её командой /del 2026-08-03 или отредактируйте streams.json.",
+    "youtube": "https://youtube.com/",
+    "vk": "https://vk.com/"
+  }
+}
