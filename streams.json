@@ -1,8 +1,134 @@
 {
-  "2026-08-03": {
-    "title": "Эфир №1 — пример",
-    "description": "Это пример записи. Удалите её командой /del 2026-08-03 или отредактируйте streams.json.",
-    "youtube": "https://youtube.com/",
-    "vk": "https://vk.com/"
+  "2026-08-06": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/b-Py3ShGS4k",
+    "vk": "https://vkvideo.ru/video-230596576_456239047?list=ln-4QWNcEaIQMN7SFzpyA"
+  },
+  "2026-07-29": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/G9PPy6i5MGo",
+    "vk": "https://vkvideo.ru/video-230596576_456239044"
+  },
+  "2026-07-22": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/O1xpYfBPQtc",
+    "vk": "https://vkvideo.ru/video-185689259_456240967?list=ln-gMz1JFD3Aij7rGtS2I"
+  },
+  "2026-07-16": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/0cLCkzdUPXs",
+    "vk": "https://vkvideo.ru/video-230596576_456239043?list=ln-8HQeV1AttvZfbIRvZc"
+  },
+  "2026-06-30": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/jMAoPSKNNrY",
+    "vk": "https://vkvideo.ru/video-230596576_456239042?list=ln-VIaELi7nd4yw1M9wP7"
+  },
+  "2026-06-24": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/bBC0o5d6hgI",
+    "vk": "https://vkvideo.ru/video-230596576_456239041?list=ln-4LMCCp7si9aSCN3c1R"
+  },
+  "2026-06-17": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/lQBoxC9xr8I",
+    "vk": "https://vkvideo.ru/video-230596576_456239040?list=ln-rfi0ZAXOMsmd5ZQG9x"
+  },
+  "2026-06-10": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/teK2uIBuFrA",
+    "vk": "https://vkvideo.ru/video-230596576_456239038?list=ln-iBK9CUNSvnVuH1m9DP"
+  },
+  "2026-06-03": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtu.be/VmLFrf7U1Xg",
+    "vk": "https://vkvideo.ru/video-230596576_456239037?list=ln-pApaqD8OniEkZaWMGC"
+  },
+  "2026-05-29": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/x0pf1iA9XzI?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239035?list=ln-jzMnftpZUpNxP9ZAnZ"
+  },
+  "2026-05-21": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/4NUDXT7Jgq0?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239034?list=ln-1pnAjr2jn4wLpeJDYL"
+  },
+  "2026-05-13": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/pe0XnaPI0qc?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239033?list=ln-ej56TxcKvezXcmLcxA"
+  },
+  "2026-05-07": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/hkWZJjsViGE?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239032?list=ln-l0ZL8h1Y2aaRF6xa9H"
+  },
+  "2026-04-23": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/CtV7oecKy0M?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239028?list=ln-RakIXBrRwRj2eFV7zo"
+  },
+  "2026-04-15": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/uO2WUX6KskI?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239026?list=ln-Z6V14vmL2qyLMJZlgG"
+  },
+  "2026-04-09": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/GjiUud2GmEo?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239025?list=ln-4FjUjhJFVAcJNhdljm"
+  },
+  "2026-04-02": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/tbR7wgn6jWo?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239024?sh=4&list=ln-h9055CoTr695GRaxGG"
+  },
+  "2026-03-26": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/O5Ty8NwMpWo?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239023?sh=4&list=ln-t4RIuQjHSO94mBOo2y"
+  },
+  "2026-03-19": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/T26zAqLIeJI?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239022?sh=4&list=ln-UANe1P4Y8VwFwJBDQF"
+  },
+  "2026-03-12": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/gkUTJMzSSNY?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239021?sh=4&list=ln-A3D5lv4kmP00ky2gNr"
+  },
+  "2026-03-04": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://youtube.com/live/THyGhgw2Vo4?feature=share",
+    "vk": "https://vkvideo.ru/video-230596576_456239020?sh=4&list=ln-Vh5YCZ98ceBoF2hHxt"
+  },
+  "2026-02-26": {
+    "title": "Рынки в моменте",
+    "description": "",
+    "youtube": "https://www.youtube.com/live/LB4qfD1dipQ",
+    "vk": "https://vkvideo.ru/video-185689259_456240645?sh=4&list=ln-zHnzdvZcmPwc1XLBJX"
   }
 }
